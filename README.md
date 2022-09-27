@@ -1,3 +1,4 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/7duxe20sx71pd4ui/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-hooks-useeffect/branch/main)
 
 [Список и детали](https://bombik815.github.io/ra-hooks-useeffect/)
 
